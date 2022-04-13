@@ -10,7 +10,7 @@ class Api
     const ENV_PROD = 'prod';
     const SANDBOX_URL = 'https://api-sandbox.starlingbank.com/api';
     const PROD_URL = 'https://api.starlingbank.com/api';
-    const API_VERSION = 'v1';
+    const API_VERSION = 'v2';
     const CA_FILE = 'cacert-2017-09-20.pem';
     const TYPE_POST = 'POST';
     const TYPE_GET = 'GET';
