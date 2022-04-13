@@ -12,7 +12,7 @@ class Me extends Request
      *
      * @var string
      */
-    protected $endpoint = 'me';
+    protected $endpoint = 'account-holder';
 
     /**
      * Whats our endpoint.
